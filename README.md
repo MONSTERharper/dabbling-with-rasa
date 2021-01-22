@@ -1,5 +1,4 @@
-![GitHub Logo](/images/logo.png)
-
+![error](/images/rasa.png)
 
 # dabbling-with-rasa
 Rasa NLU

@@ -1,3 +1,6 @@
+![GitHub Logo](/images/logo.png)
+
+
 # dabbling-with-rasa
 Rasa NLU
 # creating a new environment
